@@ -38,7 +38,9 @@ Utilizado no Git Bash
 
    ​		**git remote -v**
 
-   - ll
+   - Enviar para o remoto
+
+     **git push origin master**
 
    - 
 
