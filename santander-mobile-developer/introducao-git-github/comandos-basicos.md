@@ -20,7 +20,7 @@ Utilizado no Git Bash
 
 4. Salvar alterações para área de *staging*
 
-   ​	**git add ***  *(tudo)*
+   ​	**git add '*'**  *(tudo, sem as aspas simples)*
 
    ​	**git add *nome-do-arquivo*** *(arquivo especifico)*
 
